@@ -1,4 +1,4 @@
-<div align='center' style="width:30%">Elite Crop</div>
+<div align='center' style="width:30px">Elite Crop</div>
 
 <h2>About the project</h2>
 
